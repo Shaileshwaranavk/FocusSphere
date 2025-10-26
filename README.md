@@ -15,10 +15,10 @@ FocusSphere AI helps companies and individuals improve productivity in remote or
 ## 👥 Team
 
 - **Shaileshwaran A V K** – Backend Developer (Django & API Integration)
-- **[Name]** – Frontend Developer (HTML/CSS & UI)
-- **[Name]** – AI/ML Engineer (Behavior Prediction)
-- **[Name]** – Database & DevOps
-- **[Name]** – Project Manager & Documentation
+- **Bharathi S** – Frontend Developer (HTML/CSS & UI)
+- **Srinivasan P** – AI/ML Engineer (Behavior Prediction)
+- **Jeevitha M** – Database & DevOps
+- **Bharath** – Project Manager & Documentation
 
 ---
 
